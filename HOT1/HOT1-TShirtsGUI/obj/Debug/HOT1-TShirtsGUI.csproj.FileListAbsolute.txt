@@ -1,0 +1,11 @@
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\obj\Debug\HOT1-TShirtsGUI.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\obj\Debug\HOT1-TShirtsGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\obj\Debug\HOT1_TShirtsGUI.HOT1_TShirtsGUI.resources
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\obj\Debug\HOT1_TShirtsGUI.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\obj\Debug\HOT1-TShirtsGUI.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\obj\Debug\HOT1-TShirtsGUI.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\bin\Debug\HOT1-TShirtsGUI.exe.config
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\bin\Debug\HOT1-TShirtsGUI.exe
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\bin\Debug\HOT1-TShirtsGUI.pdb
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\obj\Debug\HOT1-TShirtsGUI.exe
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsGUI\obj\Debug\HOT1-TShirtsGUI.pdb

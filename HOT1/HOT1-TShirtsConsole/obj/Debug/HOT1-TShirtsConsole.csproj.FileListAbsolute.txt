@@ -1,0 +1,16 @@
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.exe.config
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.exe
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.pdb
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.exe
+C:\Users\Mae\OneDrive\Desktop\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.pdb
+C:\Users\Mae\Downloads\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.exe.config
+C:\Users\Mae\Downloads\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.exe
+C:\Users\Mae\Downloads\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\bin\Debug\HOT1-TShirtsConsole.pdb
+C:\Users\Mae\Downloads\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.AssemblyReference.cache
+C:\Users\Mae\Downloads\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\Downloads\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mae\Downloads\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.exe
+C:\Users\Mae\Downloads\HOT1-MerileeAnnaGlick\HOT1\HOT1-TShirtsConsole\obj\Debug\HOT1-TShirtsConsole.pdb
